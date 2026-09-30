@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aurélie</h1>
 <h3 align="center">A passionate Full Stack developer | {Epitech} Nice 💻 | Promo 2027</h3>
 
-- 🔭 I’m currently working on **[CVleon-EIP](https://github.com/CVleon-EIP/front-end.git)**
+- 🔭 I’m currently working on **[CVleon-EIP](https://https://cvleon.com)**
 - 🌱 I’m currently learning **React**
 - 💬 Always happy to collaborate on exciting projects
-- 📫 Reach me at **[Email](aurelie.lefranc@epitech.eu)**
+- 📫 Reach me at **[Email](mailto:aurelie.lefranc@epitech.eu)**
 - 🚀 Let’s connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/aur%C3%A9lie-lefranc" target="_blank">
