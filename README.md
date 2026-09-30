@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurélie</h1>
 <h3 align="center">A passionate Full Stack developer | {Epitech} Nice 💻 | Promo 2027</h3>
 
-- 🔭 I’m currently working on **[CVleon-EIP](https://https://cvleon.com)**
+- 🔭 I’m currently working on **[CVleon-EIP](https://cvleon.com)**
 - 🌱 I’m currently learning **React**
 - 💬 Always happy to collaborate on exciting projects
 - 📫 Reach me at **[Email](mailto:aurelie.lefranc@epitech.eu)**
